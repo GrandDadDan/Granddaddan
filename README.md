@@ -20,13 +20,10 @@
 <h3>Python</h3>
 
 - <b>Beginner Projects</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Quiz Game](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Number Guessing Game]
 
 <h2>📜 Certifications</h2>
-
-
-    
-<h2>📺 Popular YouTube Videos</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
