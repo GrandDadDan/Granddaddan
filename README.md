@@ -10,7 +10,7 @@
 - <b>Intermediate Projects</b>
 
 - <b>[Beginner Projects](https://github.com/ItchiSushi/BeginnerProjects.git)</b>
-  - [Email Sender]
+  - [Email Sender](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Email%20Sender)
   - [Word Replacement Program](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Basic Calculator]
   - [Email Slicer]
