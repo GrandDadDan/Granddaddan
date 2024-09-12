@@ -10,8 +10,11 @@
 - <b>Intermediate Projects</b>
 
 - <b>[Beginner Projects](https://github.com/ItchiSushi/BeginnerProjects.git)</b>
-  - [Quiz Game](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Number Guessing Game]
+  - [Email Sender]
+  - [Word Replacement Program](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Basic Calculator]
+  - [Email Slicer]
+  - [Binary Search Algorithm]
 
 <h2>📜 Certifications</h2>
 
