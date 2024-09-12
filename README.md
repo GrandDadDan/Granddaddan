@@ -9,7 +9,7 @@
 
 - <b>Intermediate Projects</b>
 
-- <b>Beginner Projects(https://github.com/ItchiSushi/BeginnerProjects.git).</b>
+- <b>[Beginner Projects](https://github.com/ItchiSushi/BeginnerProjects.git)</b>
   - [Quiz Game](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Number Guessing Game]
 
