@@ -15,7 +15,7 @@
   - [Basic Calculator]
   - [Email Slicer]
   - [Binary Search Algorithm]
-  - [View More](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Word%20Replacement%20Program)
+  - [View More](https://github.com/ItchiSushi/BeginnerProjects)
 
 <h2>📜 Certifications</h2>
 
