@@ -11,7 +11,7 @@
 
 - <b>[Beginner Projects](https://github.com/ItchiSushi/BeginnerProjects.git)</b>
   - [Email Sender](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Email%20Sender)
-  - [Word Replacement Program](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Word Replacement Program](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Word%20Replacement%20Program)
   - [Basic Calculator]
   - [Email Slicer]
   - [Binary Search Algorithm]
