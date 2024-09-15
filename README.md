@@ -5,11 +5,11 @@
 <h3>Python</h3>
 - <b>Data Structures and Algorithms Practice (Python)</b>
 
-- <b>Advanced Projects</b>
+- <b>Advanced Projects:</b>
 
-- <b>Intermediate Projects</b>
+- <b>Intermediate Projects:</b>
 
-- <b>Beginner Projects</b>
+- <b>Beginner Projects:</b>
   - [Email Sender](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Email%20Sender)
   - [Word Replacement Program](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Word%20Replacement%20Program)
   - [Basic Calculator](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Basic%20Calculator)
