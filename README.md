@@ -12,7 +12,7 @@
 - <b>Beginner Projects</b>
   - [Email Sender](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Email%20Sender)
   - [Word Replacement Program](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Word%20Replacement%20Program)
-  - [Basic Calculator]
+  - [Basic Calculator](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Basic%20Calculator)
   - [Email Slicer]
   - [Binary Search Algorithm]
   - [View More](https://github.com/ItchiSushi/BeginnerProjects)
