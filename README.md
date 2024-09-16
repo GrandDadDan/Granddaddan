@@ -15,7 +15,7 @@
   - [Basic Calculator](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Basic%20Calculator)
   - [Email Slicer](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Email%20Slicer)
   - [Binary Search Algorithm](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Binary%20Search%20Algorithm)
-  - [View More](https://github.com/ItchiSushi/BeginnerProjects)
+  - To see all beginner projects, [click here](https://github.com/ItchiSushi/BeginnerProjects)
 
 <h2>👨‍💻 Web Development Projects:</h2> 
 
