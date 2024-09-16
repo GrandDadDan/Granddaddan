@@ -17,6 +17,8 @@
   - [Binary Search Algorithm](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Binary%20Search%20Algorithm)
   - [View More](https://github.com/ItchiSushi/BeginnerProjects)
 
+<h2>👨‍💻 Web Development Projects:</h2> 
+
 <h2>📜 Certifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
