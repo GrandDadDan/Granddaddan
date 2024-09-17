@@ -13,7 +13,7 @@
   - [Email Sender](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Email%20Sender)
   - [Word Replacement Program](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Word%20Replacement%20Program)
   - [Basic Calculator](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Basic%20Calculator)
-  - [Email Slicer](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Email%20Slicer)
+  - [QR Code Generator](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Email%20Slicer)
   - [Binary Search Algorithm](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Binary%20Search%20Algorithm)
   - To see all beginner projects, [click here](https://github.com/ItchiSushi/BeginnerProjects)
 
