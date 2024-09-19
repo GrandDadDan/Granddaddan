@@ -19,7 +19,7 @@
 
 <h2>👨‍💻 Web Development Projects:</h2> 
 
-<h2>📜 Certifications</h2>
+<h2>📜 Qualifications and Certifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
