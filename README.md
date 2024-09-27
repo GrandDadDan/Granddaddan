@@ -7,6 +7,7 @@
 - <b>Data Structures and Algorithms Training (Python)</b>
 
 - <b>Advanced Projects:</b>
+  - [Shortest Path Finder]
 
 - <b>Intermediate Projects:</b>
   - [Password Manager]
