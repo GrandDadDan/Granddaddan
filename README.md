@@ -3,19 +3,24 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <h3>Python</h3>
-- <b>Data Structures and Algorithms Practice (Python)</b>
+
+- <b>Data Structures and Algorithms Training (Python)</b>
 
 - <b>Advanced Projects:</b>
 
 - <b>Intermediate Projects:</b>
-
+  - [Password Manager]
+  - [PIG Game]
+  - [Madlibs Generator]
+  - [Timed Math Challenge]
+  - [Slot Machine]
 - <b>Beginner Projects:</b>
   - [Email Sender](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Email%20Sender)
   - [Word Replacement Program](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Word%20Replacement%20Program)
   - [Basic Calculator](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Basic%20Calculator)
   - [QR Code Generator](https://github.com/ItchiSushi/BeginnerProjects/tree/main/QR%20Code%20Generator)
   - [Binary Search Algorithm](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Binary%20Search%20Algorithm)
-  - To see all beginner projects, [click here](https://github.com/ItchiSushi/BeginnerProjects)
+  - To see more beginner projects, [click here](https://github.com/ItchiSushi/BeginnerProjects)
 
 <h2>👨‍💻 Web Development Projects:</h2> 
 
