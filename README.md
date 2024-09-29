@@ -15,13 +15,14 @@
   - [Madlibs Generator]
   - [Timed Math Challenge]
   - [Slot Machine]
+  - To see more, [click here](https://github.com/ItchiSushi/IntermediateProjects)
 - <b>Beginner Projects:</b>
   - [Email Sender](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Email%20Sender)
   - [Word Replacement Program](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Word%20Replacement%20Program)
   - [Basic Calculator](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Basic%20Calculator)
   - [QR Code Generator](https://github.com/ItchiSushi/BeginnerProjects/tree/main/QR%20Code%20Generator)
   - [Binary Search Algorithm](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Binary%20Search%20Algorithm)
-  - To see more beginner projects, [click here](https://github.com/ItchiSushi/BeginnerProjects)
+  - To see more, [click here](https://github.com/ItchiSushi/BeginnerProjects)
 
 <h2>👨‍💻 Web Development Projects:</h2> 
 
