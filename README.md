@@ -10,7 +10,7 @@
   - [Shortest Path Finder]
 
 - <b>Intermediate Projects:</b>
-  - [Password Manager]
+  - [Password Manager](https://github.com/ItchiSushi/IntermediateProjects/tree/main/Password%20Manager)
   - [PIG Game]
   - [Madlibs Generator]
   - [Timed Math Challenge]
