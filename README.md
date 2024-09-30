@@ -20,7 +20,7 @@
   - [Binary Search Algorithm](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Binary%20Search%20Algorithm)
   - To see more, [click here](https://github.com/ItchiSushi/BeginnerProjects)
 
-<h2>👨‍💻 Web Development Training:</h2> 
+<h2>👨‍💻 Web Development Training (Not Started):</h2> 
 
 <h2>📜 Qualifications and Certifications</h2>
 
