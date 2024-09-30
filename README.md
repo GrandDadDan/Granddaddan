@@ -1,10 +1,10 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-marais-565494208">Advanced Diploma Graduate In ICT</a>, <a href="https://www.linkedin.com/in/daniel-marais-565494208">Post Graduate Student<br>Full Time Graphic Designer</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-marais-565494208">Final Year Advanced Diploma Student In ICT</a>, <a href="https://www.linkedin.com/in/daniel-marais-565494208">Full Time Graphic Designer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Training:</h2>
 
 <h3>Python</h3>
 
-- <b>Data Structures and Algorithms Training (Python)</b>
+- <b>Data Structures and Algorithms (In Progress)</b>
 
 - <b>Advanced Projects:</b>
   - [Shortest Path Finder]
@@ -24,7 +24,7 @@
   - [Binary Search Algorithm](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Binary%20Search%20Algorithm)
   - To see more, [click here](https://github.com/ItchiSushi/BeginnerProjects)
 
-<h2>👨‍💻 Web Development Projects:</h2> 
+<h2>👨‍💻 Web Development Training:</h2> 
 
 <h2>📜 Qualifications and Certifications</h2>
 
