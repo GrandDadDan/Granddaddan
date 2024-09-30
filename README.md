@@ -6,15 +6,11 @@
 
 - <b>Data Structures and Algorithms (In Progress)</b>
 
-- <b>Advanced Projects:</b>
+- <b>Advanced Projects(Not started):</b>
   - [Shortest Path Finder]
 
-- <b>Intermediate Projects:</b>
+- <b>Intermediate Projects(In Progress):</b>
   - [Password Manager](https://github.com/ItchiSushi/IntermediateProjects/tree/main/Password%20Manager)
-  - [PIG Game]
-  - [Madlibs Generator]
-  - [Timed Math Challenge]
-  - [Slot Machine]
   - To see more, [click here](https://github.com/ItchiSushi/IntermediateProjects)
 - <b>Beginner Projects:</b>
   - [Email Sender](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Email%20Sender)
