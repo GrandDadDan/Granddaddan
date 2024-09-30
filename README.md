@@ -7,7 +7,6 @@
 - <b>Data Structures and Algorithms (In Progress)</b>
 
 - <b>Advanced Projects(Not started):</b>
-  - [Shortest Path Finder]
 
 - <b>Intermediate Projects(In Progress):</b>
   - [Password Manager](https://github.com/ItchiSushi/IntermediateProjects/tree/main/Password%20Manager)
