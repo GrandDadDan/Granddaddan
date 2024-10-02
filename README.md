@@ -5,6 +5,7 @@
 <h3>Python</h3>
 
 - <b>Data Structures and Algorithms (In Progress)</b>
+  - [Evidence Of Training]()
 
 - <b>Advanced Projects(Not started):</b>
 
