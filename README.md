@@ -13,6 +13,7 @@
   - [Password Manager](https://github.com/ItchiSushi/IntermediateProjects/tree/main/Password%20Manager)
   - [PIG Game](https://github.com/ItchiSushi/IntermediateProjects/tree/main/PIG%20Game)
   - [Timed Math Challenge](https://github.com/ItchiSushi/IntermediateProjects/tree/main/Timed%20Math%20Challenged)
+  - [Madlibs Generator]()
   - To see more, [click here](https://github.com/ItchiSushi/IntermediateProjects)
 - <b>Beginner Projects:</b>
   - [Email Sender](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Email%20Sender)
