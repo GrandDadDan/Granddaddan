@@ -29,6 +29,8 @@
   
   <b>Education:</b>
   - [DIP in ICT: Applications Development](https://github.com/ItchiSushi/Education-and-Certifications/tree/main/Education)
+  
+  <b>Certifications:</b>
   - Certifications
     
 <h2> 🤳 Connect with me:</h2>
