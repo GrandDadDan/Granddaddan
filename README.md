@@ -26,8 +26,9 @@
 <h2>👨‍💻 Web Development Training (Not Started):</h2> 
 
 <h2>📜 Qualifications and Certifications</h2>
-
-  - [Education](https://github.com/ItchiSushi/Education-and-Certifications/tree/main/Education)</b>
+  
+  <b>Education:</b>
+  - [DIP in ICT: Applications Development](https://github.com/ItchiSushi/Education-and-Certifications/tree/main/Education)
   - Certifications
     
 <h2> 🤳 Connect with me:</h2>
