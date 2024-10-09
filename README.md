@@ -3,9 +3,8 @@
 <h2>👨‍💻 Software Development Training:</h2>
 
 <h3>Python</h3>
-<h4>I learnt Python using online resources such as Youtube, Undemy, LeatCode:</h4>
 
-- <b>Sources:</b>
+- <b>Learning Resouces:</b>
   - [TechWithTim](https://www.youtube.com/watch?v=NpmFbWO6HPU&list=WL&index=7&t=8058s&ab_channel=TechWithTim)
   - [FreeCodeCamp](https://www.youtube.com/watch?v=pdy3nh1tn6I&ab_channel=freeCodeCamp.org)
   - [Data Structures and Algorithms Python](https://www.udemy.com/course/data-structures-and-algorithms-in-python-gb/learn/lecture/39778100#overview)
