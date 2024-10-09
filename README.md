@@ -3,9 +3,12 @@
 <h2>👨‍💻 Software Development Training:</h2>
 
 <h3>Python</h3>
+<h4>I learnt Python using online resources such as Youtube, Undemy, LeatCode:</h4>
 
-- <b>Data Structures and Algorithms (In Progress):</b>
-  - [Evidence Of Training](https://github.com/ItchiSushi/Data-Structures-and-Algorithms-Python)
+- <b>Sources:</b>
+  - [TechWithTim](https://www.youtube.com/watch?v=NpmFbWO6HPU&list=WL&index=7&t=8058s&ab_channel=TechWithTim)
+  - [FreeCodeCamp](https://www.youtube.com/watch?v=pdy3nh1tn6I&ab_channel=freeCodeCamp.org)
+  - [Data Structures and Algorithms Python](https://www.udemy.com/course/data-structures-and-algorithms-in-python-gb/learn/lecture/39778100#overview)
 
 - <b>Advanced Projects(Not started):</b>
 
@@ -23,6 +26,10 @@
   - [QR Code Generator](https://github.com/ItchiSushi/BeginnerProjects/tree/main/QR%20Code%20Generator)
   - [Binary Search Algorithm](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Binary%20Search%20Algorithm)
   - To see more, [click here](https://github.com/ItchiSushi/BeginnerProjects)
+
+<h4>Data Structures and Algorithms (In Progress):</h4>
+
+  - [Evidence Of Training](https://github.com/ItchiSushi/Data-Structures-and-Algorithms-Python)
 
 <h2>👨‍💻 Web Development Training (Not Started):</h2> 
 
