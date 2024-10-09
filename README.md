@@ -12,16 +12,12 @@
 - <b>Advanced Projects(Not started):</b>
 
 - <b>Intermediate Projects(In Progress):</b>
-  - [Password Manager](https://github.com/ItchiSushi/IntermediateProjects/tree/main/Password%20Manager)
-  - [PIG Game](https://github.com/ItchiSushi/IntermediateProjects/tree/main/PIG%20Game)
   - [Timed Math Challenge](https://github.com/ItchiSushi/IntermediateProjects/tree/main/Timed%20Math%20Challenged)
   - [Madlibs Generator](https://github.com/ItchiSushi/IntermediateProjects/tree/main/Madlibs%20Generator)
   - [Slot Machine](https://github.com/ItchiSushi/IntermediateProjects/tree/main/Slot%20Machine)
   - To see more, [click here](https://github.com/ItchiSushi/IntermediateProjects)
 - <b>Beginner Projects:</b>
   - [Email Sender](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Email%20Sender)
-  - [Word Replacement Program](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Word%20Replacement%20Program)
-  - [Basic Calculator](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Basic%20Calculator)
   - [QR Code Generator](https://github.com/ItchiSushi/BeginnerProjects/tree/main/QR%20Code%20Generator)
   - [Binary Search Algorithm](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Binary%20Search%20Algorithm)
   - To see more, [click here](https://github.com/ItchiSushi/BeginnerProjects)
