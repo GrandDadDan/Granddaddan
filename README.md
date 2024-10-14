@@ -9,15 +9,9 @@
   - [FreeCodeCamp](https://www.youtube.com/watch?v=pdy3nh1tn6I&ab_channel=freeCodeCamp.org)
   - [Data Structures and Algorithms Python](https://www.udemy.com/course/data-structures-and-algorithms-in-python-gb/learn/lecture/39778100#overview)
 
-- <b>Advanced Projects(Not started):</b>
-
 - <b>[Intermediate Projects](https://github.com/ItchiSushi/IntermediateProjects)</b>
 
-- <b>Beginner Projects:</b>
-  - [Email Sender](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Email%20Sender)
-  - [QR Code Generator](https://github.com/ItchiSushi/BeginnerProjects/tree/main/QR%20Code%20Generator)
-  - [Binary Search Algorithm](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Binary%20Search%20Algorithm)
-  - To see more, [click here](https://github.com/ItchiSushi/BeginnerProjects)
+- <b>[Beginner Projects](https://github.com/ItchiSushi/BeginnerProjects)</b>
 
 - <b>[Data Structures and Algorithms](https://github.com/ItchiSushi/Data-Structures-and-Algorithms-Python)</b>
 
