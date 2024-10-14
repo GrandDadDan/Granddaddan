@@ -19,9 +19,8 @@
   - [Binary Search Algorithm](https://github.com/ItchiSushi/BeginnerProjects/tree/main/Binary%20Search%20Algorithm)
   - To see more, [click here](https://github.com/ItchiSushi/BeginnerProjects)
 
-<h4>Data Structures and Algorithms (In Progress):</h4>
+- <b>[Data Structures and Algorithms](https://github.com/ItchiSushi/Data-Structures-and-Algorithms-Python)</b>
 
-  - [Evidence Of Training](https://github.com/ItchiSushi/Data-Structures-and-Algorithms-Python)
 
 <h2>👨‍💻 Web Development Training (Not Started):</h2> 
 
