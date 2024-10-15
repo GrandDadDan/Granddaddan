@@ -20,11 +20,13 @@
 
 <h2>📜 Qualifications and Certifications</h2>
   
-  <b>Education:</b>
-  - [DIP in ICT: Applications Development](https://github.com/ItchiSushi/Education-and-Certifications/tree/main/Education)
+<h3>Education:</h3>
+
+- [DIP in ICT: Applications Development](https://github.com/ItchiSushi/Education-and-Certifications/tree/main/Education)
   
-  <b>Certifications:</b>
-  - Certifications
+<h3>Certifications:</h3>
+
+- Certificates
     
 <h2> 🤳 Connect with me:</h2>
 
