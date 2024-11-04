@@ -5,9 +5,10 @@
 <h3>Python</h3>
 
 - <b>Learning Resouces:</b>
-  - [TechWithTim](https://www.youtube.com/watch?v=NpmFbWO6HPU&list=WL&index=7&t=8058s&ab_channel=TechWithTim)
+  - [9 Hours of Python Projects](https://www.youtube.com/watch?v=NpmFbWO6HPU&list=WL&index=7&t=8058s&ab_channel=TechWithTim) - by TechWithTim
+  - [Software Development Curriculum](https://www.piratekingdom.com/curriculum/software-development) - by Pirate King
   - [FreeCodeCamp](https://www.youtube.com/watch?v=pdy3nh1tn6I&ab_channel=freeCodeCamp.org)
-  - [Data Structures and Algorithms Python](https://www.udemy.com/course/data-structures-and-algorithms-in-python-gb/learn/lecture/39778100#overview)
+  - [Data Structures and Algorithms Python](https://www.udemy.com/course/data-structures-and-algorithms-in-python-gb/learn/lecture/39778100#overview) - by Undemy (Glassbyte Team)
 
 - <b>[Intermediate Projects](https://github.com/ItchiSushi/IntermediateProjects)</b>
 
