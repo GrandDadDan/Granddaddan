@@ -21,7 +21,7 @@
 
 <h2> 🐉 Projects: </h2>
 
- - [PenguTv App - 2022]()
+ - [PenguTv App - 2022](https://github.com/ItchiSushi/Personal-Projects/tree/main/PenguTv)
  - [Rocket League Registration App - 2021]()
   
 <h2>📜 Qualifications and Certifications</h2>
