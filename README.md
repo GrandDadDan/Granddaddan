@@ -21,8 +21,8 @@
 
 <h2> 🐉 Projects: </h2>
 
- - PenguTv App
- - Rocket League Registration App
+ - [PenguTv App - 2022]()
+ - [Rocket League Registration App - 2021]()
   
 <h2>📜 Qualifications and Certifications</h2>
   
