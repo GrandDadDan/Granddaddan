@@ -19,7 +19,10 @@
 
 <h2>👨‍💻 Web Development Training (Not Started):</h2> 
 
-<h2> 🐉 Projects </h2>
+<h2> 🐉 Projects: </h2>
+
+PenguTv App - 
+Rocket League Registration App -
   
 <h2>📜 Qualifications and Certifications</h2>
   
