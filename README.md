@@ -19,6 +19,8 @@
 
 <h2>👨‍💻 Web Development Training (Not Started):</h2> 
 
+<h2> 🐉 Projects </h2>
+  
 <h2>📜 Qualifications and Certifications</h2>
   
 <h3>Education:</h3>
@@ -35,3 +37,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/daniel-marais-oct/
+
