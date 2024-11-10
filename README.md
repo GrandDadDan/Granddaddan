@@ -1,6 +1,6 @@
 <h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-marais-565494208">Final Year Advanced Diploma Student In ICT</a>, <a href="https://www.linkedin.com/in/daniel-marais-565494208">Full Time Graphic Designer</a></h1>
 
-<h2>👨‍💻 Software Development Training:</h2>
+<h2>👨‍💻 Software Development:</h2>
 
 <h3>Python</h3>
 
@@ -17,7 +17,7 @@
 - <b>[Data Structures and Algorithms](https://github.com/ItchiSushi/Data-Structures-and-Algorithms-Python)</b>
 
 
-<h2>👨‍💻 Web Development Training (Not Started):</h2> 
+<h2>👨‍💻 Web Development:</h2> 
 
 <h2> 🐉 Projects: </h2>
 
