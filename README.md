@@ -15,7 +15,8 @@
 
 - <b>[Bootstrap Frontend Website](https://github.com/ItchiSushi/bootstrap-frontend-website/tree/main)
 <h2> 🐧 Projects: </h2>
- - [Personal Bio Website]()
+
+ - [Personal Bio Website - 2024](https://github.com/ItchiSushi/personalbiowebsite)
  - [PenguTv App - 2022](https://github.com/ItchiSushi/Personal-Projects/tree/main/PenguTv)
  - [Rocket League Registration App - 2021](https://github.com/ItchiSushi/Personal-Projects/tree/main/Rocket%20League%20Registration)
   
