@@ -34,9 +34,13 @@
 
 [<img align="left" alt="DanielMarais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DanielMarais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="DanielMarais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
 
 
 [linkedin]: https://www.linkedin.com/in/daniel-marais-oct/
 [instagram]: https://www.instagram.com/daniel_penguin/
+[tiktok]: https://www.tiktok.com/@danielmarais475?_t=8rxEpbxWluS&_r=1
+
+
 
 
