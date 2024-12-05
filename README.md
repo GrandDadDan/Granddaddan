@@ -13,7 +13,7 @@
 
 <h2>👨‍💻 Web Development:</h2> 
 
-- <b>[Bootstrap Frontend Website](https://github.com/ItchiSushi/bootstrap-frontend-website/tree/main)
+- <b>[Bootstrap Frontend Website Project](https://github.com/ItchiSushi/bootstrap-frontend-website/tree/main)
 <h2> 🐉 Projects: </h2>
 
  - 👨‍🎓[Personal Bio Website - 2024](https://github.com/ItchiSushi/personalbiowebsite)
