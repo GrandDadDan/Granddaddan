@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-marais-565494208">Advanced Diploma Graduate In ICT</a>, <a href="https://www.linkedin.com/in/daniel-marais-565494208">Honors Student, Full Time Graphic Designer</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-marais-565494208">Honors Student, Advanced Diploma Graduate In ICT, Full Time Graphic Designer</a></h1>
 
 <h2>👨‍💻 Software Development:</h2>
 
