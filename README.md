@@ -14,7 +14,7 @@
 <h2>👨‍💻 Web Development:</h2> 
 
 - <b>[Bootstrap Frontend Website Project](https://github.com/ItchiSushi/bootstrap-frontend-website/tree/main)
-- <b>[Vanilla JavaScript CRUD Functions](https://github.com/ItchiSushi/bootstrap-frontend-website/tree/main)
+- <b>[Vanilla JavaScript CRUD Functions]https://github.com/ItchiSushi/JavaScriptAndCSSTraining/tree/main/JavaScript%20DOM%20Part%204(Mini%20Project)
 <h2> 🐉 Projects: </h2>
 
  - 👨‍🎓[Personal Bio Website - 2024](https://github.com/ItchiSushi/personalbiowebsite)
