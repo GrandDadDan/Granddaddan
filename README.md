@@ -10,8 +10,6 @@
 
 - <b>[Data Structures and Algorithms](https://github.com/ItchiSushi/Data-Structures-and-Algorithms-Python)</b>
 
-- <b>[LeetCode Training]()
-
 
 <h2>👨‍💻 Web Development:</h2> 
 
