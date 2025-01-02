@@ -21,7 +21,7 @@
  - 🐧[PenguTv App - 2022](https://github.com/ItchiSushi/Personal-Projects/tree/main/PenguTv)
  - 🏎[Rocket League Registration App - 2021](https://github.com/ItchiSushi/Personal-Projects/tree/main/Rocket%20League%20Registration)
   
-<h2>📜 Qualifications and Certifications</h2>
+<h2>📜 Education and Certifications</h2>
   
 <h3>Education:</h3>
 
