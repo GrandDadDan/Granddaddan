@@ -26,6 +26,7 @@
 <h3>Education:</h3>
 
 - [DIP in ICT: Applications Development](https://github.com/ItchiSushi/Education-and-Certifications/tree/main/Education)
+- [Matric Certificate]()
   
 <h3>Certifications:</h3>
 
