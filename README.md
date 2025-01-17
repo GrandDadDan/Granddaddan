@@ -8,8 +8,6 @@
 
 - <b>[Beginner Projects](https://github.com/ItchiSushi/BeginnerProjects)</b>
 
-- <b>[Data Structures and Algorithms](https://github.com/ItchiSushi/Data-Structures-and-Algorithms-Python)</b>
-
 
 <h2>👨‍💻 Web Development:</h2> 
 
