@@ -15,7 +15,6 @@
 - <b>[Vanilla JavaScript CRUD Functions](https://github.com/ItchiSushi/JavaScriptAndCSSTraining/tree/main/JavaScript%20DOM%20Part%204(Mini%20Project))
 <h2> 🐉 Projects: </h2>
 
- - 📜[Task Tracker - 2025](https://github.com/GrandDadDan/Task-Tracker-React-App/tree/master)
  - 👨‍🎓[Personal Bio Website - 2024](https://github.com/ItchiSushi/personalbiowebsite)
  - 🐧[PenguTv App - 2022](https://github.com/ItchiSushi/Personal-Projects/tree/main/PenguTv)
  - 🏎[Rocket League Registration App - 2021](https://github.com/ItchiSushi/Personal-Projects/tree/main/Rocket%20League%20Registration)
