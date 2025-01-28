@@ -21,17 +21,7 @@
  - 👨‍🎓[Personal Bio Website - 2024](https://github.com/ItchiSushi/personalbiowebsite)
  - 🐧[PenguTv App - 2022](https://github.com/ItchiSushi/Personal-Projects/tree/main/PenguTv)
  - 🏎[Rocket League Registration App - 2021](https://github.com/ItchiSushi/Personal-Projects/tree/main/Rocket%20League%20Registration)
-  
-<h2>📜 Education and Certifications</h2>
-  
-<h3>Education:</h3>
-
-- [DIP in ICT: Applications Development](https://github.com/ItchiSushi/Education-and-Certifications/tree/main/Education)
-- [Matric Certificate]()
-  
-<h3>Certifications:</h3>
-
-- Certificates
+ 
     
 <h2> 🤳 Connect with me:</h2>
 
