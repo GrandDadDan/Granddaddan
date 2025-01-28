@@ -15,7 +15,7 @@
 - <b>[Vanilla JavaScript CRUD Functions](https://github.com/ItchiSushi/JavaScriptAndCSSTraining/tree/main/JavaScript%20DOM%20Part%204(Mini%20Project))
 <h2> 🐉 Projects: </h2>
 
- - 🧑‍🎓[Portfolio Revamp]() 
+ - 🧑‍🎓[Portfolio Revamp](https://github.com/GrandDadDan/React-Portfolio) 
  - 📃[React To Do List](https://github.com/GrandDadDan/React-To-Do-List)
  - 🧮[React Calculator](https://github.com/GrandDadDan/React-Calculator)
  - 👨‍🎓[Personal Bio Website - 2024](https://github.com/ItchiSushi/personalbiowebsite)
