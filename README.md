@@ -15,7 +15,7 @@
 - <b>[Vanilla JavaScript CRUD Functions](https://github.com/ItchiSushi/JavaScriptAndCSSTraining/tree/main/JavaScript%20DOM%20Part%204(Mini%20Project))
 <h2> 🐉 Projects: </h2>
 
- - 📱💬 [React Real Time Chat Application]()
+ - 📱💬 [React Real Time Chat Application](https://github.com/GrandDadDan/React-Real-Time-Chat-Application)
  - 🧑‍🎓[Portfolio Revamp](https://github.com/GrandDadDan/React-Portfolio) 
  - 📃[React To Do List](https://github.com/GrandDadDan/React-To-Do-List)
  - 🧮[React Calculator](https://github.com/GrandDadDan/React-Calculator)
