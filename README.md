@@ -3,10 +3,8 @@
 <h1 align="center">Hi there, I'm <span style="color:#58A6FF">Daniel</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=500&lines=Software+Developer;Tech+Enthusiast;Lifelong+ Self-Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=500&lines=Software+Developer;Tech+Enthusiast;Lifelong+Learner" />
 </p>
-
----
 
 ### 🖤 About Me
 - 💻 Passionate about software development and Web development.
@@ -42,8 +40,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/www.linkedin.com/in/daniel-marais-oct/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dpengmarais99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.facebook.com/[YourFacebook]" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/[YourInstagram]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/https://www.instagram.com/daniel_penguin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ### 📈 Commit History
