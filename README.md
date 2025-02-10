@@ -32,7 +32,7 @@
 ---
 
 ### 🌱 Current Focus
--Building personal projects to become proficient in **React, Node.js & Firebase**.
+- Building personal projects to become proficient in **React, Node.js & Firebase**.
 - Deepening my understanding of **React for Web Developemt**.
 - Currently Enrolled in my **Postgraduate Diploma in ICT**.
 
