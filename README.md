@@ -26,7 +26,9 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Granddaddan&show_icons=true&theme=dark&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Granddaddan&langs_count=8&layout=compact&theme=dark&hide_border=true" />
 </p>
+
 
 
 ---
