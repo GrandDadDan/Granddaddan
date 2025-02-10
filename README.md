@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=500&lines=Web+Developer;Software+Developer;Tech+Enthusiast;Lifelong+Learner" />
 </p>
 
+---
+
 ### 🐧 About Me
 - 💻 Passionate about software development and Web development.
 - 🎨 Motion graphic designer transitioning into full-time software engineering.
@@ -30,7 +32,7 @@
 ---
 
 ### 🌱 Current Focus
-- Building scalable applications with **React, Node.js & Firebase**.
+-Building personal projects to become proficient in **React, Node.js & Firebase**.
 - Deepening my understanding of **React for Web Developemt**.
 - Currently Enrolled in my **Postgraduate Diploma in ICT**.
 
