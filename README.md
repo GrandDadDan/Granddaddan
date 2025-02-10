@@ -1,44 +1,48 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-marais-565494208">Honors Student, Advanced Diploma Graduate In ICT, Full Time Graphic Designer</a></h1>
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=header)
 
-<h2>👨‍💻 Software Development:</h2>
+<h1 align="center">Hi there, I'm <span style="color:#58A6FF">[Your Name]</span> 👋</h1>
 
-<h3>Python</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=500&lines=Software+Developer;Tech+Enthusiast;Lifelong+Learner" />
+</p>
 
-- <b>[Intermediate Projects](https://github.com/ItchiSushi/IntermediateProjects)</b>
+---
 
-- <b>[Beginner Projects](https://github.com/ItchiSushi/BeginnerProjects)</b>
+### 🖤 About Me
+- 💻 Passionate about software development and AI-driven applications.
+- 🎨 Former graphic designer transitioning into full-time software engineering.
+- 🚀 Exploring new technologies and building projects with **React, Node.js, and Firebase**.
+- 🎮 Gamer & fitness enthusiast.
 
+---
 
-<h2>👨‍💻 Web Development:</h2> 
+### ⚡ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,nodejs,express,mongodb,git,github,python,java" />
+</p>
 
-- <b>[Bootstrap Frontend Website Project](https://github.com/ItchiSushi/bootstrap-frontend-website/tree/main)
-- <b>[Vanilla JavaScript CRUD Functions](https://github.com/ItchiSushi/JavaScriptAndCSSTraining/tree/main/JavaScript%20DOM%20Part%204(Mini%20Project))
-<h2> 🐉 Projects: </h2>
+---
 
- - 🛒 [Ecommerce Store](https://github.com/GrandDadDan/React-Ecommerce-Store)
- - 📱💬 [React Real Time Chat Application](https://github.com/GrandDadDan/React-Real-Time-Chat-Application)
- - 🧑‍🎓[Portfolio Revamp](https://github.com/GrandDadDan/React-Portfolio) 
- - 📃[React To Do List](https://github.com/GrandDadDan/React-To-Do-List)
- - 🧮[React Calculator](https://github.com/GrandDadDan/React-Calculator)
- - 👨‍🎓[Personal Bio Website - 2024](https://github.com/ItchiSushi/personalbiowebsite)
- - 🐧[PenguTv App - 2022](https://github.com/ItchiSushi/Personal-Projects/tree/main/PenguTv)
- - 🏎[Rocket League Registration App - 2021](https://github.com/ItchiSushi/Personal-Projects/tree/main/Rocket%20League%20Registration)
- 
-    
-<h2> 🤳 Connect with me:</h2>
+### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=dark&hide_border=true" />
+</p>
 
-[<img align="left" alt="DanielMarais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DanielMarais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="DanielMarais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
-[<img align="left" alt="DanielMarais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+---
 
+### 🌱 Current Focus
+- Building scalable applications with **React, Node.js & Firebase**.
+- Deepening my understanding of **AI in game development**.
+- Currently enrolled in **Postgraduate Diploma in ICT**.
 
+---
 
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/[YourLinkedIn]/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:[YourEmail]" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-[linkedin]: https://www.linkedin.com/in/daniel-marais-oct/
-[instagram]: https://www.instagram.com/daniel_penguin/
-[tiktok]: https://www.tiktok.com/@danielmarais475?_t=8rxEpbxWluS&_r=1
-[facebook]:https://www.facebook.com/profile.php?id=100094136047511
-
-
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&section=footer)
 
