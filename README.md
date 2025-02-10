@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=500&lines=Software+Developer;Tech+Enthusiast;Lifelong+Learner" />
 </p>
 
-### 🖤 About Me
+### 🐧 About Me
 - 💻 Passionate about software development and Web development.
 - 🎨 Motion graphic designer transitioning into full-time software engineering.
 - 🚀 Exploring new technologies and building projects with **React, Node.js, and Firebase**.
