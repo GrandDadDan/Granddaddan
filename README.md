@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=header)
 
-<h1 align="center">Hi there, I'm <span style="color:#58A6FF">[Your Name]</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#58A6FF">Daniel</span> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=500&lines=Software+Developer;Tech+Enthusiast;Lifelong+Learner" />
@@ -33,8 +33,8 @@
 
 ### 🌱 Current Focus
 - Building scalable applications with **React, Node.js & Firebase**.
-- Deepening my understanding of **AI in game development**.
-- Preparing for my **Postgraduate Diploma in ICT**.
+- Deepening my understanding of **React for Web Developemt**.
+- Currently Enrolled in my **Postgraduate Diploma in ICT**.
 
 ---
 
