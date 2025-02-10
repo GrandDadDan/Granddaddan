@@ -11,7 +11,7 @@
 ### 🐧 About Me
 - 💻 Passionate about software development and Web development.
 - 🎨 Motion graphic designer transferring creativity into web development.
-- 🚀 Exploring new technologies and building projects with **React, Node.js, and Firebase**.
+- 🚀 Exploring new technologies and building projects with **React, Css, Node.js, and Firebase**.
 - 🎮 Gamer & fitness enthusiast.
 
 ---
@@ -32,7 +32,7 @@
 ---
 
 ### 🌱 Current Focus
-- Building personal projects to become proficient in **React, Node.js & Firebase**.
+- Building personal projects to become proficient in **React, Css Node.js & Firebase**.
 - Deepening my understanding of **React for Web Developemt**.
 - Currently Enrolled in my **Postgraduate Diploma in ICT**.
 
