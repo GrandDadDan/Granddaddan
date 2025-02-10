@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#58A6FF">Daniel</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=500&lines=Software+Developer;Tech+Enthusiast;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=500&lines=Web/Software+Developer;Tech+Enthusiast;Lifelong+ Self-Learner" />
 </p>
 
 ---
@@ -44,11 +44,11 @@
   <a href="mailto:dpengmarais99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-
-### 🐍 GitHub Contribution Snake
+### 📈 Commit History
 <p align="center">
-  <img src="https://github.com/Granddaddan/Granddaddan/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Granddaddan&theme=github-dark&hide_border=true" />
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&section=footer)
+
 
