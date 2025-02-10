@@ -10,7 +10,7 @@
 
 ### 🐧 About Me
 - 💻 Passionate about software development and Web development.
-- 🎨 Motion graphic designer transitioning into full-time software engineering.
+- 🎨 Motion graphic designer transferring creativity into web development.
 - 🚀 Exploring new technologies and building projects with **React, Node.js, and Firebase**.
 - 🎮 Gamer & fitness enthusiast.
 
@@ -45,10 +45,14 @@
   <a href="https://www.instagram.com/daniel_penguin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
+---
+
 ### 📈 Commit History
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Granddaddan&theme=github-dark&hide_border=true" />
 </p>
+
+---
 
 ![Footer](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&section=footer)
 
