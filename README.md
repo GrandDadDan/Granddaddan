@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#58A6FF">Daniel</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=500&lines=Software+Developer;Tech+Enthusiast;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=500&lines=Web+Developer;Software+Developer;Tech+Enthusiast;Lifelong+Learner" />
 </p>
 
 ### 🐧 About Me
