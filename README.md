@@ -44,4 +44,11 @@
   <a href="mailto:dpengmarais99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://github.com/Granddaddan/Granddaddan/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ![Footer](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&section=footer)
+
