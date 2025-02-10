@@ -25,9 +25,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Granddaddan&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Granddaddan&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Granddaddan&show_icons=true&theme=dark&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
+
 
 ---
 
