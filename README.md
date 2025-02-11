@@ -34,7 +34,7 @@
 ---
 
 ### 🌱 Current Focus
-- Building personal projects to become proficient in **React, Css Node.js & Firebase**.
+- Building personal projects to become proficient in **React, Css, Node.js & Firebase**.
 - Deepening my understanding of **React for Web Developemt**.
 - Currently Enrolled in my **Postgraduate Diploma in ICT**.
 
